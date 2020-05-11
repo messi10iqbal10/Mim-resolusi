@@ -2,3 +2,4 @@ Min-resolusi
 -membuat web dengan baik dan benar
 -mengelola website dengan database dan erd nya
 -menjadi back end dan frond end Devoloper
+-menjadi web Devoloper Profesional
